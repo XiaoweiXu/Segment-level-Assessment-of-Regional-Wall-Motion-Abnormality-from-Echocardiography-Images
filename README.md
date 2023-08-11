@@ -1,0 +1,1 @@
+# Segment-level-Assessment-of-Regional-Wall-Motion-Abnormality-from-Echocardiography-Images
